@@ -34,6 +34,8 @@
 
     <localconverters:ContrastBrushConverter x:Key="ContrastBrushConverter" />
 
+    <!--  random comment  -->
+
     <ControlTemplate x:Key="ColorPickerTemplate"
                      TargetType="controls:ColorPicker">
         <Grid Margin="{TemplateBinding Padding}"
